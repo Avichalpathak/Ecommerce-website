@@ -1,1 +1,1 @@
-# Ecommerce-website
+# Minor-Project
